@@ -1,0 +1,1 @@
+import {Performance} from "../../components/Sections";export default function Page(){return <Performance/>}

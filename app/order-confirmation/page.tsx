@@ -1,0 +1,1 @@
+import Link from "next/link";export default function Page(){return <section className="section"><h1>Demo order received<span className="red">.</span></h1><p className="lead">Your simulated order was saved in this browser. No actual order has been placed or payment collected.</p><Link className="btn" href="/products">Explore products</Link></section>}

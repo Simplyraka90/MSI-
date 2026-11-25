@@ -1,0 +1,1 @@
+import Link from "next/link";export default function Page(){return <section className="section"><h1>Terms<span className="red">.</span></h1><p className="lead">This is an unofficial portfolio demonstration. Prices, inventory and checkout are illustrative. No sales or payments are processed.</p><Link className="btn" href="/products">Explore products</Link></section>}

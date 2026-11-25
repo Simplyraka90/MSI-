@@ -1,0 +1,1 @@
+import {Checkout} from "../../components/Commerce";export default function Page(){return <Checkout/>}

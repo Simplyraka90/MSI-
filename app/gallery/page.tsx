@@ -1,0 +1,1 @@
+import {Gallery} from "../../components/Sections";export default function Page(){return <Gallery/>}

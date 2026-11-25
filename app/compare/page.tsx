@@ -1,0 +1,1 @@
+import {Compare} from "../../components/Commerce";export default function Page(){return <Compare/>}

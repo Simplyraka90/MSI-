@@ -1,0 +1,2 @@
+// @ts-ignore -- Next.js resolves global CSS imports through its bundler.
+import './globals.css';import Shell from '../components/Shell';export const metadata={title:'GF63 | Thin by design. Built to play.',description:'An unofficial interactive 3D gaming laptop portfolio concept.'};export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body><Shell>{children}</Shell></body></html>}

@@ -1,0 +1,1 @@
+import {Admin} from "../../components/Commerce";export default function Page(){return <Admin/>}

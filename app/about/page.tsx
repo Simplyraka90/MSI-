@@ -1,0 +1,1 @@
+import {About} from "../../components/Sections";export default function Page(){return <About/>}

@@ -1,0 +1,1 @@
+import {Products} from "../../components/Commerce";export default function Page(){return <Products/>}

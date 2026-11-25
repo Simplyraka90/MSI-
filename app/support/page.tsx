@@ -1,0 +1,1 @@
+import {Support} from "../../components/Sections";export default function Page(){return <Support/>}
